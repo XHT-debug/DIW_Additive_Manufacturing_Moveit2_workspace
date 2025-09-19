@@ -1,0 +1,4 @@
+string file_path
+bool whether_trajectory_output
+float64 planning_velocity
+float64 control_period

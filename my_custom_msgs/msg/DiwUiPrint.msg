@@ -1,0 +1,8 @@
+string file_path
+int32 trajectory_type
+bool whether_start_correct_distance
+bool whether_distance_collect
+bool start_expend_kalman_filter
+float64 distance_platform
+int32 pressure_adjust_value
+float64 printing_velocity
